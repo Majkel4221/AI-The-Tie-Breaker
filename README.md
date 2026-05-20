@@ -20,4 +20,4 @@ An AI-powered decision assistant designed to analyze complex dilemmas, eliminate
 - Managing complex user inputs and converting AI responses into structured, actionable advice
 
 - ## Live Demo
-[Open Application] (https://www.google.com/url?sa=E&q=https%3A%2F%2Fais-pre-qpq5ryuqy32xftil2q55ns-569066162710.europe-west2.run.app))
+[Open Application] ((https://ais-pre-qpq5ryuqy32xftil2q55ns-569066162710.europe-west2.run.app/))
